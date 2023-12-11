@@ -1,0 +1,8 @@
+regular_item1_150.0_1.0_1.23g_5_true_false_*1 desc
+regular_item2_625.0_12.0_12.23g_8_true_false_*2 desc
+regular_item3_82.0_33.0_37g_8_true_true_*3 desc
+regular_item4_21.0_78.0_90mL_3_true_true_*4 desc
+special_special1_21.0_78.0_90mL_1_true_true_*special1
+special_special2_399.0_78.0_45g_1_true_true_*special2
+regular_ingred1_18.0_78.0_245g_10_false_true_*Not for Sale! 
+regular_ingred2_120.0_25.0_90mL_4_false_true_*Not for Sale! 

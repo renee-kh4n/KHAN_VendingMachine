@@ -1,0 +1,8 @@
+regular_salted egg_23.0_55.0_g_5_true_false_*
+regular_Truffle oil_61.0_30.0_g_10_false_true_*Not for Sale! 
+regular_item3_20.0_51.0_g_10_false_true_*Not for Sale! 
+regular_rice_85.0_20.0_g_5_false_true_*Not for Sale! 
+regular_pepper_23.0_41.0_5g_7_true_true_*
+regular_mochi_45.0_0.0_5g_4_true_true_*
+regular_waffles_133.0_89.0_5g_8_true_true_*
+regular_ice cream_75.0_100.0_5g_8_true_false_*

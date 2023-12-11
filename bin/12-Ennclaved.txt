@@ -1,0 +1,8 @@
+special_chicken_110.0_100.0_24g_1_true_false_*chicken
+special_chicken_110.99_100.0_24g_1_true_false_*chicken
+special_item3_250.0_100.0_24g_1_true_false_*chicken
+special_item4_300.0_60.0_24g_1_true_false_*item4
+special_inf_300.0_60.0_24g_1_true_false_*item4
+special_inf_300.0_60.0_24g_1_true_false_*item4
+special_inf_300.0_60.0_24g_1_true_false_*item4
+special_inf_300.0_60.0_24g_1_true_false_*item4

@@ -1,0 +1,4 @@
+special_special_20.0_12.0_g_1_true_false_*
+regular_regula1_5.0_20.0_g_10_true_false_*
+regular_regula2_27.0_30.0_34g_10_true_true_*
+regular_ingred_120.0_50.0_45g_10_false_true_*Not for Sale! 

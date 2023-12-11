@@ -1,0 +1,4 @@
+regular_item1_1.0_1.0_1g_1_true_false_*1
+regular_item2_2.0_2.0_2.50g_5_true_false_*2
+regular_item3_3.0_3.0_32.50g_10_true_false_*description
+regular_item4_400.0_4.0_16.44g_7_true_false_*description4
