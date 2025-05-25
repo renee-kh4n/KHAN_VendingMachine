@@ -200,31 +200,31 @@ public class BuyerWalletFrame extends JFrame {
 			switch(i)
 			{
 				case 0:
-					originalIcon = new ImageIcon(this.getClass().getResource("/1000php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/1000php.jpg"));
 					break;
 				case 1:
-					originalIcon = new ImageIcon(this.getClass().getResource("/500php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/500php.jpg"));
 					break;
 				case 2:
-					originalIcon = new ImageIcon(this.getClass().getResource("/200php.png"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/200php.png"));
 					break;
 				case 3:
-					originalIcon = new ImageIcon(this.getClass().getResource("/100php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/100php.jpg"));
 					break;
 				case 4:
-					originalIcon = new ImageIcon(this.getClass().getResource("/50php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/50php.jpg"));
 					break;
 				case 5:
-					originalIcon = new ImageIcon(this.getClass().getResource("/20php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/20php.jpg"));
 					break;
 				case 6:
-					originalIcon = new ImageIcon(this.getClass().getResource("/10php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/10php.jpg"));
 					break;
 				case 7:
-					originalIcon = new ImageIcon(this.getClass().getResource("/5php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/5php.jpg"));
 					break;
 				case 8:
-					originalIcon = new ImageIcon(this.getClass().getResource("/1php.jpg"));
+					originalIcon = new ImageIcon(this.getClass().getResource("/main/resources/1php.jpg"));
 					break;
 			}
 				
